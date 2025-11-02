@@ -4,9 +4,11 @@
 Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wiener-Khinchin relation.
 ## EQUIPMENTS Needed:
 • Computer with i3 Processor
+
 • SCI LAB
 ## THEORY:
 The Wiener-Khinchin theorem states that the power spectral density of a wide sense stationary random process is the Fourier transform of the corresponding autocorrelation function.
+
 <img width="681" height="103" alt="image" src="https://github.com/user-attachments/assets/6c81392c-7ad6-4a04-a1b5-83bdcdfcd503" />
 
 ## Algorithm:
